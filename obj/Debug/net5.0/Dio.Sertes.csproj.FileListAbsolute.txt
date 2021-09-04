@@ -1,0 +1,16 @@
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\Dio.Sertes.exe
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\Dio.Sertes.deps.json
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\Dio.Sertes.runtimeconfig.json
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\Dio.Sertes.runtimeconfig.dev.json
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\Dio.Sertes.dll
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\ref\Dio.Sertes.dll
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\bin\Debug\net5.0\Dio.Sertes.pdb
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.csproj.AssemblyReference.cache
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.AssemblyInfoInputs.cache
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.AssemblyInfo.cs
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.csproj.CoreCompileInputs.cache
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.dll
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\ref\Dio.Sertes.dll
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.pdb
+C:\Users\clebs\OneDrive\Documentos\Dio.Sertes\obj\Debug\net5.0\Dio.Sertes.genruntimeconfig.cache
